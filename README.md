@@ -1,7 +1,7 @@
 # Backtesting-a-KD-RSI-MACD-trading-strategy-using-Python
 
 ## Basic Setup(基本設置)
-1. Target Selection: From the component stocks of Taiwan 50 index, select the following 15 industry's stocks with the highest percentage of shares.
+1. Target Selection: From the component stocks of Taiwan 50 index, select the following 15 industry's stocks with the highest percentage of shares.  
 
 * Semiconductor Industry: Taiwan Semiconductor Manufacturing Co., Ltd. 2330
 * Electronics Industry: Hon Hai Precision Industry Co., Ltd. 2317
